@@ -1,5 +1,11 @@
 # OSX
 #
+
+.expo
+android/
+ios/
+
+
 .DS_Store
 
 # Xcode
